@@ -1,0 +1,252 @@
+{
+    "visibility": 10000,
+    "timezone": 10800,
+    "main": {
+        "temp": 1.38,
+        "temp_min": 1.24,
+        "grnd_level": 993,
+        "humidity": 77,
+        "pressure": 1013,
+        "sea_level": 1013,
+        "feels_like": -3.53,
+        "temp_max": 1.48
+    },
+    "clouds": {"all": 100},
+    "sys": {
+        "country": "RU",
+        "sunrise": 1737006489,
+        "sunset": 1737034199,
+        "id": 2094500,
+        "type": 2
+    },
+    "dt": 1737057801,
+    "coord": {
+        "lon": 37.6156,
+        "lat": 55.7522
+    },
+    "weather": [{
+        "icon": "04n",
+        "description": "пасмурно",
+        "main": "Clouds",
+        "id": 804
+    }],
+    "name": "Москва",
+    "cod": 200,
+    "id": 524901,
+    "base": "stations",
+    "wind": {
+        "deg": 276,
+        "speed": 5.65,
+        "gust": 13.95
+    }
+}
+{
+    "visibility": 9358,
+    "timezone": 10800,
+    "main": {
+        "temp": -7.66,
+        "temp_min": -7.66,
+        "grnd_level": 998,
+        "humidity": 98,
+        "pressure": 1013,
+        "sea_level": 1013,
+        "feels_like": -12.17,
+        "temp_max": -7.66
+    },
+    "clouds": {"all": 70},
+    "sys": {
+        "country": "RU",
+        "sunrise": 1737003742,
+        "sunset": 1737031422,
+        "id": 9038,
+        "type": 1
+    },
+    "dt": 1737058690,
+    "coord": {
+        "lon": 49.1221,
+        "lat": 55.7887
+    },
+    "weather": [{
+        "icon": "04n",
+        "description": "облачно с прояснениями",
+        "main": "Clouds",
+        "id": 803
+    }],
+    "name": "Казань",
+    "cod": 200,
+    "id": 551487,
+    "base": "stations",
+    "wind": {
+        "deg": 170,
+        "speed": 2.56,
+        "gust": 3.28
+    }
+}
+{
+    "visibility": 9358,
+    "timezone": 10800,
+    "main": {
+        "temp": -7.66,
+        "temp_min": -7.66,
+        "grnd_level": 998,
+        "humidity": 98,
+        "pressure": 1013,
+        "sea_level": 1013,
+        "feels_like": -12.17,
+        "temp_max": -7.66
+    },
+    "clouds": {"all": 70},
+    "sys": {
+        "country": "RU",
+        "sunrise": 1737003742,
+        "sunset": 1737031422,
+        "id": 9038,
+        "type": 1
+    },
+    "dt": 1737058690,
+    "coord": {
+        "lon": 49.1221,
+        "lat": 55.7887
+    },
+    "weather": [{
+        "icon": "04n",
+        "description": "облачно с прояснениями",
+        "main": "Clouds",
+        "id": 803
+    }],
+    "name": "Казань",
+    "cod": 200,
+    "id": 551487,
+    "base": "stations",
+    "wind": {
+        "deg": 170,
+        "speed": 2.56,
+        "gust": 3.28
+    }
+}
+{
+    "visibility": 9358,
+    "timezone": 10800,
+    "main": {
+        "temp": -7.66,
+        "temp_min": -7.66,
+        "grnd_level": 998,
+        "humidity": 98,
+        "pressure": 1013,
+        "sea_level": 1013,
+        "feels_like": -12.17,
+        "temp_max": -7.66
+    },
+    "clouds": {"all": 70},
+    "sys": {
+        "country": "RU",
+        "sunrise": 1737003742,
+        "sunset": 1737031422,
+        "id": 9038,
+        "type": 1
+    },
+    "dt": 1737059166,
+    "coord": {
+        "lon": 49.1221,
+        "lat": 55.7887
+    },
+    "weather": [{
+        "icon": "04n",
+        "description": "облачно с прояснениями",
+        "main": "Clouds",
+        "id": 803
+    }],
+    "name": "Казань",
+    "cod": 200,
+    "id": 551487,
+    "base": "stations",
+    "wind": {
+        "deg": 170,
+        "speed": 2.56,
+        "gust": 3.28
+    }
+}
+{
+    "visibility": 10000,
+    "timezone": 10800,
+    "main": {
+        "temp": -18.66,
+        "temp_min": -18.66,
+        "grnd_level": 1026,
+        "humidity": 96,
+        "pressure": 1042,
+        "sea_level": 1042,
+        "feels_like": -23.87,
+        "temp_max": -18.66
+    },
+    "clouds": {"all": 21},
+    "sys": {
+        "country": "RU",
+        "sunrise": 1737521666,
+        "sunset": 1737550522,
+        "id": 9038,
+        "type": 1
+    },
+    "dt": 1737562531,
+    "coord": {
+        "lon": 49.1221,
+        "lat": 55.7887
+    },
+    "weather": [{
+        "icon": "02n",
+        "description": "небольшая облачность",
+        "main": "Clouds",
+        "id": 801
+    }],
+    "name": "Казань",
+    "cod": 200,
+    "id": 551487,
+    "base": "stations",
+    "wind": {
+        "deg": 186,
+        "speed": 1.85,
+        "gust": 1.77
+    }
+}
+{
+    "visibility": 10000,
+    "timezone": 10800,
+    "main": {
+        "temp": -2.2,
+        "temp_min": -2.76,
+        "grnd_level": 1006,
+        "humidity": 49,
+        "pressure": 1026,
+        "sea_level": 1026,
+        "feels_like": -8.63,
+        "temp_max": -2.01
+    },
+    "clouds": {"all": 100},
+    "sys": {
+        "country": "RU",
+        "sunrise": 1737524414,
+        "sunset": 1737553299,
+        "id": 2094500,
+        "type": 2
+    },
+    "dt": 1737563146,
+    "coord": {
+        "lon": 37.6156,
+        "lat": 55.7522
+    },
+    "weather": [{
+        "icon": "04n",
+        "description": "пасмурно",
+        "main": "Clouds",
+        "id": 804
+    }],
+    "name": "Москва",
+    "cod": 200,
+    "id": 524901,
+    "base": "stations",
+    "wind": {
+        "deg": 177,
+        "speed": 6.77,
+        "gust": 14.16
+    }
+}
